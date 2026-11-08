@@ -168,8 +168,7 @@ A publicação prevista é pelo GitHub Pages. Após criar o repositório públic
 
 Formato esperado:
 
-`https://utilizador.github.io/repositorio/`
-
+https://d-ribeiro-dev.github.io/porsche-sales-dashboard/
 ## 10. Privacidade e limitações
 
 A dashboard incorpora os dados utilizados em seu próprio HTML. Portanto, os registros disponibilizados no repositório público poderão ser consultados por qualquer pessoa.
