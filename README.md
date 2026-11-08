@@ -106,7 +106,6 @@ A versão final utiliza gráficos de barras, gráficos de rosca e gráfico de li
 ### Assistência de desenvolvimento
 
 - **Assistente utilizado na construção:** Manus.
-- **Modelo subjacente:** não identificado no registro do projeto.
 - **ChatGPT:** apoio na auditoria, análise e correção da versão final.
 - **Agentes:** não foram utilizados subagentes neste projeto.
 - **Skills consultadas:** `data-analysis`, `office-documents`, `deep-research`, `webdev`, `imagegen` e `image-processing`.
@@ -143,37 +142,32 @@ Foram aplicados filtros de cidade e modelo, verificando a atualização dos indi
 
 **Importante:** os oito testes automatizados pertencem à versão anterior do projeto. Eles não devem ser interpretados como uma suíte executada diretamente sobre o HTML único corrigido.
 
+
 ## 8. Evidências de funcionamento
 
-As capturas de tela devem demonstrar:
+Foram registradas capturas de tela para demonstrar o funcionamento da dashboard:
 
-1. **Visão geral:** dashboard aberta, sem filtros, exibindo os indicadores e gráficos.
-2. **Filtro aplicado:** dashboard com uma cidade selecionada, mostrando os indicadores e registros atualizados.
+1. **Visão geral:** dashboard sem filtros, exibindo os indicadores e gráficos.
+2. **Filtro aplicado:** dashboard com a cidade Atlanta selecionada, apresentando três registros e a atualização dos indicadores, gráficos e tabela.
 
-Um exemplo de validação é o filtro de cidade Atlanta, que retorna três registros.
-
-Legenda sugerida para a captura:
-
-> Filtro por Atlanta: três registros apresentados, com indicadores, gráficos e tabela atualizados.
-
+A aplicação foi verificada com filtros de cidade e modelo.
 
 
 ## 9. Publicação
 
-**Endereço público:** pendente de publicação.
-
-O endereço de pré-visualização do ambiente Manus não representa um endereço público permanente para o portfólio.
-
-A publicação prevista é pelo GitHub Pages. Após criar o repositório público e configurar a página, o endereço definitivo será registrado aqui.
-
-Formato esperado:
+A dashboard está publicada pelo GitHub Pages e pode ser acessada pelo endereço:
 
 https://d-ribeiro-dev.github.io/porsche-sales-dashboard/
+
+O repositório público do projeto está disponível em:
+
+https://github.com/d-ribeiro-dev/porsche-sales-dashboard
+
 ## 10. Privacidade e limitações
 
 A dashboard incorpora os dados utilizados em seu próprio HTML. Portanto, os registros disponibilizados no repositório público poderão ser consultados por qualquer pessoa.
 
-Antes da publicação, é necessário confirmar que existe autorização para divulgar os dados e que os arquivos não contêm informações pessoais ou confidenciais.
+A publicação desses dados pressupõe autorização para divulgação e a verificação de que os arquivos não contêm informações pessoais ou confidenciais.
 
 A identificação de uma planilha como sanitizada não garante, por si só, que todo o seu conteúdo esteja adequado para publicação.
 
